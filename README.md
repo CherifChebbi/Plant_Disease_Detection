@@ -3,6 +3,9 @@
 This project leverages deep learning to detect plant diseases from leaf images using a **custom CNN** and a **fine-tuned VGG16** model. It covers the entire ML lifecycle — from data exploration to deployment — and includes a user-friendly **Streamlit web application** for real-time inference and Grad-CAM visualizations.
 
 ---
+![Image](https://github.com/user-attachments/assets/df2c7409-1ab6-411b-80ce-ba89c68fe771)
+
+
 
 ## 📌 Overview:
 
